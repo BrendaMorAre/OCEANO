@@ -1,0 +1,172 @@
+#title{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+#label{
+    font-size: 14px;
+}
+
+.text-capitalize{
+    margin-top: 7px;
+}
+
+#subtittle-form{
+    text-align: center;
+    background-color: #61b3ef;
+    font-weight: bold;
+}
+
+.boton{
+    margin-right: 20%;
+}
+
+#form{
+    font-size: 13px;
+}
+
+.form-group-sm{
+    margin-right: 5%;
+}
+
+
+.modal-body .form-horizontal .col-sm-2,
+.modal-body .form-horizontal .col-sm-10 {
+    width: 100%
+}
+
+.modal-body .form-horizontal .control-label {
+    text-align: left;
+}
+.modal-body .form-horizontal .col-sm-offset-2 {
+    margin-left: 15px;
+}
+
+#header-1{
+    background-color: #ff4e4a;
+    -webkit-border-radius: 6px 6px 0px 0px;
+    border: 0px solid #000000;
+}
+
+#header-2{
+    background-color: #7b99ec;
+    -webkit-border-radius: 6px 6px 0px 0px;
+    border: 0px solid #000000;
+}
+
+
+#header-4{
+    background-color: #e8cf19;
+    -webkit-border-radius: 6px 6px 0px 0px;
+    border: 0px solid #000000;
+}
+
+#header-5{
+    background-color: #46c137;
+    -webkit-border-radius: 6px 6px 0px 0px;
+    border: 0px solid #000000;
+}
+
+#header-6{
+    background-color: #f7de84;
+    -webkit-border-radius: 6px 6px 0px 0px;
+    border: 0px solid #000000;
+}
+
+#proveedor{
+    background-color: #e8cf19;
+    border-color: #e8cf19;
+    color: #585858;
+}
+
+
+#provee-form{
+    margin-right: 5%;
+}
+
+#provee-input{
+    height: 40px;
+}
+
+
+#detalle-prove{
+    margin: 0 50px 0;
+}
+
+#subtittle-provee{
+    text-align: center;
+    background-color: #e9ec0f;
+    font-weight: bold;
+}
+
+#produ-form{
+    text-align: left;
+}
+
+#file{
+    background-color: #4e555b;
+}
+
+#upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.boton-file {
+    border: 2px solid gray;
+    color: gray;
+    background-color: #9d9d9d6b;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+
+#producto{
+    background-color: #46c137;
+    border-color: #46c137;
+    color: white;
+}
+
+#servicio-form{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#tiposerv{
+    width: 100%;
+    margin-right: 50%;
+}
+
+#servicio{
+    background-color: #f7de84;
+    border-color: #f7de84;
+    color: #0f0f0f;
+}
+
+#usuario{
+    background-color: #ff4e4a;
+    border-color: #ff4e4a;
+    color: #0f0f0f;
+}
+
+#empleado{
+    background-color: #597fe6;
+    border-color: #597fe6;
+    color: #0f0f0f;
+}
+
+#detaempleado{
+    margin-left: 8%;
+}
+

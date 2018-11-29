@@ -1,0 +1,39 @@
+#containerFactura{
+    margin-top: 4%;
+}
+
+#containerCotizacion{
+    margin-top: 2%;
+}
+
+#tittle-cotizacion{
+    margin: 5% 2% 0;
+}
+
+#icon-cotizacion{
+    margin-right: 1%;
+    margin-left: 2%;
+    font-size: 40px;
+}
+
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 3%;
+    margin-right: 2.6%;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.col-sm-8 .cotizacion{
+    height: 15%;
+}
+
+#cotizacion{
+    margin-top: 1.5%;
+}
+
+.buttons{
+    margin: 3% 8% 0;
+}
